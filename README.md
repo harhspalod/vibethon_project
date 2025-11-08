@@ -103,7 +103,7 @@ The AI agent workflow creation and deployment backend:
 
 ## 🏛️ System Architecture
 
-Reef follows a microservices architecture with clear separation of concerns:
+vibethon follows a microservices architecture with clear separation of concerns:
 
 ```
 ┌─────────────────┐    API Calls    ┌──────────────────────┐
@@ -151,7 +151,7 @@ Reef follows a microservices architecture with clear separation of concerns:
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd reef
+   cd vibethon_project
    ```
 
 2. **Set up Frontend:**
